@@ -1,0 +1,24 @@
+@import "tailwindcss";
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+}
+
+button {
+    padding: 8px;
+    margin: 10px;
+}
+
+.hello {
+    margin: auto;
+    margin-top: 23px;
+}
+
+.pass {
+    padding: 6px;
+}
